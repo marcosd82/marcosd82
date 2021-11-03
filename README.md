@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marcosd82
-- 👀 I’m interested in web/mobile/Automation/CI&CD/Clouds
-- 🌱 I’m currently learning all...
+- 👋 Hi, I’m @marcosd82 and work as Test Automation Engineer 
+- 👀 I’m interested in web/mobile/Automation/CI&CD/Clouds/mobile and web Automation frameworks/clouds
+- 🌱 I’m currently learning all...everyday!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by marcosd82@gmail.com
 
